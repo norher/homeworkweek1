@@ -25,3 +25,5 @@ It ends with a footer that this code was made with love.
 
 At any one point the user can click on the links in the nav section to access the detailed articles about that topic.
 
+<img src="C:\Users\norma\Pictures\Screenshots\Screenshot 2022-02-26 164241.png"/>
+<img src="C:\Users\norma\Pictures\Screenshots\Screenshot 2022-02-26 164429.png"/>
